@@ -1,0 +1,33 @@
+Label,Estimate,Margin of Error
+    Households,"26,139","±2,447"
+        Median household income (dollars),"80,633","±7,582"
+    With earnings,88.0%,±2.8
+        Mean earnings (dollars),"107,240","±9,626"
+    With Social Security income,26.9%,±4.1
+        Mean Social Security income (dollars),"18,420","±2,190"
+    With Supplemental Security Income,3.5%,±1.6
+        Mean Supplemental Security Income (dollars),"9,327","±1,944"
+    With cash public assistance income,2.5%,±1.4
+        Mean cash public assistance income (dollars),"2,282",±764
+    With retirement income,8.9%,±2.6
+        Mean retirement income (dollars),"24,875","±9,175"
+    With Food Stamp/SNAP benefits,5.3%,±2.2
+    Families,"18,198","±2,036"
+        Median family income (dollars),"88,280","±13,954"
+            Married-couple family,67.6%,±6.3
+        Median income (dollars),"103,922","±11,399"
+"            Male householder, no spouse present, family",8.6%,±4.0
+        Median income (dollars),"111,429","±100,484"
+"            Female householder, no husband present, family",23.9%,±5.1
+        Median income (dollars),"65,261","±24,243"
+    Individuals,"83,710","±8,098"
+        Per capita income (dollars),"35,506","±2,677"
+"    With earnings for full-time, year-round workers:",,
+        Male,"16,680","±2,832"
+        Female,"18,185","±2,416"
+"    Mean earnings (dollars) for full-time, year-round workers:",,
+        Male,"68,173","±6,788"
+        Female,"66,970","±8,892"
+"    Median earnings (dollars) full-time, year-round workers:",,
+        Male,"60,040","±3,817"
+        Female,"56,729","±8,212"

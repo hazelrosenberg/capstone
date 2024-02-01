@@ -1,0 +1,13 @@
+Label,Estimate,Margin of Error
+    Population 25 years and over,"63,407","±5,405"
+        Less than high school diploma,4.1%,±1.2
+        High school graduate (includes equivalency),10.3%,±2.3
+        Some college or associate's degree,21.8%,±3.1
+        Bachelor's degree,51.9%,±3.5
+        Graduate or professional degree,11.9%,±2.3
+        High school graduate or higher,95.9%,±1.2
+"            Male, high school graduate or higher",96.9%,±1.4
+"            Female, high school graduate or higher",95.0%,±2.0
+        Bachelor's degree or higher,63.8%,±3.5
+"            Male, bachelor's degree or higher",58.3%,±5.0
+"            Female, bachelor's degree or higher",68.2%,±4.3

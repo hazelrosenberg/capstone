@@ -1,0 +1,4 @@
+Label,Estimate,Margin of Error
+    Occupied units paying rent (excluding units where GRAPI cannot be computed),"10,241","±1,752"
+        Less than 30 percent,71.4%,±6.1
+        30 percent or more,28.6%,±6.1

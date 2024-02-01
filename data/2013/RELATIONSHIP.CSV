@@ -1,0 +1,7 @@
+Label,Estimate,Margin of Error
+    Population in households,"82,785","±7,421"
+        Householder or spouse,50.3%,±2.5
+        Child,30.3%,±2.6
+        Other relatives,12.3%,±2.6
+        Nonrelatives,7.0%,±1.5
+            Unmarried partner,1.9%,±0.8

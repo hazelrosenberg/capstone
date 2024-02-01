@@ -1,0 +1,9 @@
+Label,Estimate,Margin of Error
+    Population 1 year and over,"76,824","±7,274"
+    Same house,87.5%,±2.9
+    Different house in the U.S.,11.1%,±2.8
+        Same county,8.8%,±2.6
+        Different county,2.3%,±1.0
+            Same state,0.5%,±0.3
+            Different state,1.8%,±0.9
+    Abroad,1.4%,±0.7

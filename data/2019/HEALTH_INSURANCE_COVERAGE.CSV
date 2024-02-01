@@ -1,0 +1,5 @@
+Label,Estimate,Margin of Error
+    Civilian noninstitutionalized population,"90,146","±8,615"
+        With private health insurance,79.4%,±2.8
+        With public coverage,24.7%,±2.9
+        No health insurance coverage,5.1%,±1.7

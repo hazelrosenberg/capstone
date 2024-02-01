@@ -1,0 +1,13 @@
+Label,Estimate,Margin of Error
+    Population 3 years and over enrolled in school,"22,932","±3,355"
+"        Nursery school, preschool",8.0%,±4.6
+        Kindergarten,3.0%,±1.6
+        Elementary school (grades 1-8),43.0%,±5.2
+        High school (grades 9-12),17.3%,±3.5
+        College or graduate school,28.7%,±4.6
+        Male 3 years and over enrolled in school,"10,833","±1,905"
+            Percent enrolled in kindergarten to grade 12,67.2%,±6.4
+            Percent enrolled in college or graduate school,25.6%,±6.1
+        Female 3 years and over enrolled in school,"12,099","±2,365"
+            Percent enrolled in kindergarten to grade 12,59.8%,±8.9
+            Percent enrolled in college or graduate school,31.4%,±7.4

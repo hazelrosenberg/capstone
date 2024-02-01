@@ -1,0 +1,17 @@
+Label,Estimate,Margin of Error
+    Native,"30,603","±3,424"
+        Male,51.6%,±3.5
+        Female,48.4%,±3.5
+    Foreign born,"44,627","±4,821"
+        Male,41.3%,±2.7
+        Female,58.7%,±2.7
+    Foreign born; naturalized U.S. citizen,"28,941","±3,429"
+        Male,40.5%,±2.9
+        Female,59.5%,±2.9
+    Foreign born; not a U.S. citizen,"15,686","±2,567"
+        Male,42.8%,±5.4
+        Female,57.2%,±5.4
+    Population born outside the United States,"44,627","±4,821"
+        Entered 2010 or later,15.8%,±2.8
+        Entered 2000 to 2009,29.6%,±4.4
+        Entered before 2000,54.5%,±4.7

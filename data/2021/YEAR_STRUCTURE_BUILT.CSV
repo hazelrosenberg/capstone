@@ -1,0 +1,9 @@
+Label,Estimate,Margin of Error
+    Occupied housing units,"29,191","±2,483"
+        Built 2020 or later,0.0%,±0.6
+        Built 2010 to 2019,5.3%,±2.5
+        Built 2000 to 2009,9.3%,±3.2
+        Built 1980 to 1999,15.8%,±3.6
+        Built 1960 to 1979,31.3%,±4.3
+        Built 1940 to 1959,20.6%,±3.7
+        Built 1939 or earlier,17.8%,±3.8

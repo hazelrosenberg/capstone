@@ -1,0 +1,4 @@
+Label,Estimate,Margin of Error
+    Housing units with a mortgage (excluding units where SMOC cannot be computed),"10,147","±1,298"
+        Less than 30 percent,64.4%,±6.4
+        30 percent or more,35.6%,±6.4

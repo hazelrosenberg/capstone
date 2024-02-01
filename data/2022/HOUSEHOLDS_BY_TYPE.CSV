@@ -1,0 +1,17 @@
+Label,Estimate,Margin of Error
+    Households,"32,190","±2,880"
+        Family households,71.8%,±4.2
+            With own children of the householder under 18 years,28.0%,±4.2
+        Married-couple family,51.4%,±4.9
+            With own children of the householder under 18 years,21.0%,±3.4
+"        Female householder, no spouse present, family",15.4%,±3.8
+            With own children of the householder under 18 years,4.5%,±2.1
+        Nonfamily households,28.2%,±4.2
+            Male householder,11.0%,±3.1
+                Living alone,7.1%,±2.0
+                Not living alone,4.0%,±2.5
+            Female householder,17.1%,±3.8
+                Living alone,12.9%,±3.4
+                Not living alone,4.3%,±2.3
+        Average household size,2.69,±0.14
+        Average family size,3.07,±0.15
