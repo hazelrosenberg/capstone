@@ -1,4 +1,4 @@
-Year,Households w/ monthly mortgage less than 30 percent of household income,Households w/ monthly mortgage 30 percent or more of household income,Total Housing Units w/ a Mortgage,Median Monthly Owner Costs w/ a Mortgage (dollars),Median Monthly Owner Costs w/o a Mortgage (dollars),Median House Value (dollars),Total Owner-Occupied Housing Units
+year,mortgage_lt_30pct_inc,mortgage_gte_30pct_inc,total_units_with_mortgage,med_monthly_costs_mortgage,med_monthly_costs_no_mortgage,med_house_val,total_owner_occupied_units
 2022,10960.636,4178.3640000000005,15139.0,2269.0,876.0,353100.0,20580.0
 2021,10035.684000000001,2930.3160000000003,12966.000000000002,2018.0,755.0,302000.0,19047.0
 2019,9851.016,3042.9840000000004,12894.0,2054.0,837.0,286000.0,16448.0

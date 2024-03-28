@@ -1,4 +1,4 @@
-Year,Median gross rent (dollars),Households paying rent less than 30 percent of household income,Households paying rent 30 percent or more of household income,Total Occupied Units Paying Rent
+year,med_gross_rent,hh_rent_lt_30pct_income,hh_rent_gte_30pct_income,occupied_units_rented
 2022,1426.0,7303.0,3597.0,11078.0
 2021,1330.0,6371.46,2943.54,9746.0
 2019,1272.0,6730.505999999999,3196.494,10104.0
